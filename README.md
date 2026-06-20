@@ -6,7 +6,7 @@ Firebase Features:
    Authentication - email/password
    Firestore - collection
 
-Login/logout.
+Login/logout. se
 
 
 
